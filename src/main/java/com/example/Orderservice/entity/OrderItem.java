@@ -1,6 +1,6 @@
 package com.example.Orderservice.entity;
 
-import com.fasterxml.jackson.databind.ser.Serializers;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
